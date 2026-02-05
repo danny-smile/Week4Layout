@@ -6,7 +6,11 @@
 
 .alert-box {
     margin-top: 10px;
+<<<<<<< HEAD
     background-color: #59c2f6;
+=======
+    background-color: #097cb5;
+>>>>>>> master
     color: #ffffff;
     padding: 10px;
     text-align: center;
@@ -38,7 +42,11 @@
 }
 /* I use flexbox because is only one row of content in one dimensional layout*/
 header {
+<<<<<<< HEAD
     background-color: #59c2f6;
+=======
+    background-color: #097cb5;
+>>>>>>> master
     padding: 10px;
     text-align: center;
     color: #ffffff;
